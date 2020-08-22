@@ -9,6 +9,8 @@ Assuming that [this](https://github.com/erarvin2007/MNIST-Classification/#Archit
 model.load_state_dict(torch.load('MNIST.prm'))
 ```
 
+Support: erarvin2007@gmail.com  
+
 ### Dataset
 Train Length: 60000  
 CV Length: 10000  
