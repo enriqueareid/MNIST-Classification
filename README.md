@@ -1,6 +1,6 @@
 # MNIST Model | GPU (Compatible with CPU)
 ## Train Accuracy: 99.96%
-## Cross-Validation Accuracy: 99.55%
+## Test Accuracy: 99.55%
 
 # Introduction
 This repository includes a Jupyter Notebook, *MNIST.ipynb*, which can be executed in order to train the model again. In order to run the notebook, [tqdm](https://pypi.org/project/tqdm/), [PyTorch](https://pytorch.org/get-started/locally/) and [Python 3](https://www.python.org) must be installed on your machine. The Jupyter Notebook is compatible with both GPUs (recommended) and CPUs. The pretrained network's saved parameters can be found at *MNIST.prm*.  
