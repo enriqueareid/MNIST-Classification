@@ -13,7 +13,7 @@ Support: erarvin2007@gmail.com
 
 ### Dataset
 Train Length: 60000  
-CV Length: 10000  
+Test Length: 10000  
 Original Input Dimensions: (Examples) x 28 x 28  
 Reshaped Input Dimensions: (Examples) x 1 x 32 x 32
 
